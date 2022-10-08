@@ -1,3 +1,5 @@
+## -⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻               
+
 - 👋 Hi, I’m @guilherme-dope
 - 👀 I’m interested in cloud systems and app development
 - 🌱 I’m currently learning system analyst
