@@ -1,13 +1,15 @@
-## -⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺
-- 👋 Hi, I’m @guilherme-dope
-- 👀 I’m interested in cloud systems and app development
-- 🌱 I’m currently learning system analyst
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ⬇
--   -> Instagram: @guilherme_dope
--   -> Email: guimontemor777@gmail.com
--   -> Discord: dope#4819
--   -> Linkedin: www.linkedin.com/in/guilherme-monte-mor
+## Guilherme GDOPE inc.
+
+<img align="right" width="20%" src="https://i.imgur.com/i3KfBTx.png">
+
+- __👋 Hi, I’m *@guilherme-dope*__
+- __👀 I’m interested in cloud systems and app development__
+- __🌱 I’m currently learning system analyst__ 
+-  __📫 *How to reach me* ⬇__
+-   -> __Instagram:__ @guilherme_dope
+-   -> __Email:__ guimontemor777@gmail.com
+-   -> __Discord:__ dope#4819
+-   -> __Linkedin:__ www.linkedin.com/in/guilherme-monte-mor
 
   #
 
