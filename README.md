@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/guilherme-dope">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-dope&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-dope&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-dope&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -25,6 +25,9 @@
 
 </div>
   
-  <div align="center" class="image-wrapper">
-  <a href = "https://flow.page/dope"><img width="15%" src="https://i.imgur.com/0lLtrSu.png"/></a>  
-  </div>
+<div align="center" class="image-wrapper">
+  
+  <a href="https://flow.page/dope"><img align="center" width="20%" src="https://github.com/guilherme-dope/guilherme-dope/blob/main/bithubgifbuttonflow.gif?raw=true"></a>
+ 
+ </div>
+  
