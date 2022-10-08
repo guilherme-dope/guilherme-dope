@@ -6,7 +6,7 @@
 -   -> Instagram: @guilherme_dope
 -   -> Email: guimontemor777@gmail.com
 -   -> Discord: dope#4819
--   -> Linkedin: linkedin.com/in/guilherme-monte-mor
+-   -> Linkedin: www.linkedin.com/in/guilherme-monte-mor
 
 <!---
 guilherme-dope/guilherme-dope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
