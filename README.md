@@ -2,14 +2,14 @@
 
 <img align="right" width="20%" src="https://i.imgur.com/i3KfBTx.png">
 
-- __👋 Hi, I’m *@guilherme-dope*__
-- __👀 I’m interested in cloud systems and app development__
-- __🌱 I’m currently learning system analyst__ 
--  __📫 *How to reach me* ⬇__
--   -> __Instagram:__ @guilherme_dope
--   -> __Email:__ guimontemor777@gmail.com
--   -> __Discord:__ dope#4819
--   -> __Linkedin:__ www.linkedin.com/in/guilherme-monte-mor
+> - __👋 Hi, I’m *@guilherme-dope*__
+> - __👀 I’m interested in cloud systems and app development__
+> - __🌱 I’m currently learning system analyst__ 
+> -  __📫 *How to reach me* ⬇__
+> -   -> __Instagram:__ @guilherme_dope
+> -   -> __Email:__ guimontemor777@gmail.com
+> -   -> __Discord:__ dope#4819
+> -   -> __Linkedin:__ www.linkedin.com/in/guilherme-monte-mor
 
   #
 
