@@ -8,7 +8,7 @@
 > -  __📫 *How to reach me* ⬇__
 > -   -> __Instagram:__ @guilherme_dope
 > -   -> __Email:__ guimontemor777@gmail.com
-> -   -> __Discord:__ dope#4819
+> -   -> __Discord:__ rzrdope
 > -   -> __Linkedin:__ www.linkedin.com/in/guilherme-monte-mor
 
   #
