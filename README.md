@@ -28,13 +28,7 @@
   <a href = "mailto:guimontemor777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-monte-mor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://www.behance.net/xdope"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
-
+  <a href = "https://tinyurl.com/rzrdope"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/81268873/264780448-0fc2f01b-5d21-4a70-a6d2-4357e72c4a42.svg"></a>
 
 </div>
-  
-<div align="center" class="image-wrapper">
-  
-  <a> <img align="center" width="20%" src="https://github.com/guilherme-dope/guilherme-dope/blob/main/bithubgifbuttonflow.gif?raw=true"></a>
- 
- </div>
   
