@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 252" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Monte-Mor · DOPE</title>
+  <desc id="desc">A pulse travels from the PLC through SCADA to the historian.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#293149" stroke-width=".7"/></pattern>
+    <linearGradient id="signal"><stop stop-color="#53f6eb"/><stop offset=".58" stop-color="#74baff"/><stop offset="1" stop-color="#e069ff"/></linearGradient>
+    <path id="wave" d="M460 114h44l6 -6 7 16 8 -52 8 82 9 -40h64l6 -7 8 15 6 -31 8 42 6 -19h69l10 -10 8 18 8 -53 9 79 8 -34h94"/>
+    <style>
+      .label{font:14px Consolas,'Liberation Mono',monospace;letter-spacing:1.4px}
+      .sweep{stroke-dasharray:52 590;animation:scan 4.4s linear infinite}
+      @keyframes scan{from{stroke-dashoffset:52}to{stroke-dashoffset:-590}}
+      @media(prefers-reduced-motion:reduce){.sweep{animation:none}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="918" height="250" rx="15" fill="#090c16" stroke="#35374e"/>
+  <rect x="428" y="24" width="458" height="157" rx="8" fill="url(#grid)"/>
+  <path d="M22 53V22h33M865 230h33v-31" fill="none" stroke="url(#signal)" stroke-width="2"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="47" y="60" fill="#82ece6" class="label">GUILHERME MONTE-MOR</text>
+    <text x="42" y="145" fill="#f4f6ff" font-size="94" font-weight="800" letter-spacing="-5">DOPE<tspan fill="#e069ff">.</tspan></text>
+    <text x="48" y="173" fill="#b1bfd1" font-size="18">Software and industrial automation</text>
+  </g>
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round"><use href="#wave" stroke="url(#signal)" stroke-width="3"/><use href="#wave" stroke="#fff" stroke-width="4" class="sweep"/></g>
+  <g class="label" fill="#b9c5d9"><text x="460" y="172">01 / PLC</text><text x="598" y="172">02 / SCADA</text><text x="741" y="172">03 / HISTORIAN</text></g>
+  <path d="M48 193h824" stroke="#34394b"/>
+  <text x="48" y="224" class="label" fill="#cbd4df"><tspan fill="#53f6eb">D</tspan>evelopment   ·   <tspan fill="#7edcf8">O</tspan>perations   ·   <tspan fill="#aeb2ff">P</tspan>rogramming   ·   <tspan fill="#e069ff">E</tspan>ngineering</text>
+</svg>

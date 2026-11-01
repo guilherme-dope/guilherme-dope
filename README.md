@@ -1,34 +1,11 @@
-## Guilherme GDOPE inc.
+<img src="dope.svg" width="920" alt="Guilherme Monte-Mor · DOPE — Software and industrial automation">
 
-<img align="right" width="20%" src="https://i.imgur.com/i3KfBTx.png">
+I build SCADA screens and configure alarms for the people who operate industrial equipment. When a team needs to investigate an incident, I configure a historian or SQL database to collect signals from the PLC. That way, operators can go back to the time of the alarm and see how the signal changed before and after it.
 
-> - __👋 Hi, I’m *@guilherme-dope*__
-> - __👀 I’m interested in cloud systems and app development__
-> - __🌱 I’m currently learning system analyst__ 
-> -  __📫 *How to reach me* ⬇__
-> -   -> __Instagram:__ __`@guilherme_dope`__
-> -   -> __Email:__ guimontemor777@gmail.com
-> -   -> __Discord:__ __`rzrdope`__
-> -   -> [__Linkedin__](https://www.linkedin.com/in/guilherme-monte-mor)
-> -   -> [__LinkHUB__](https://tinyurl.com/rzrdope)
-  #
+### What you’ll find here.
 
-<div align="center">
-  <a href="https://github.com/guilherme-dope">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-dope&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-dope&layout=compact&langs_count=7&theme=dark"/>
-</div>
+I write Python tools that turn long recordings into timestamped transcripts so I can find the moment someone mentions a particular term. I also automate parts of video editing, like checking a batch of clips for an on-screen username before drafting titles and descriptions. On the web side, I build database-backed apps for tasks like keeping a product catalog up to date.
 
-  #
-  
-  <div align="center"> 
-  
-  <a href="https://instagram.com/guilherme_dope" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ddrdope" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guimontemor777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-monte-mor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.behance.net/xdope"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
-  <a href = "https://tinyurl.com/rzrdope"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/81268873/264780448-0fc2f01b-5d21-4a70-a6d2-4357e72c4a42.svg"></a>
+DOPE grew out of *dopxmor*, the nickname I used in games as a kid.
 
-</div>
-  
+[LinkedIn](https://www.linkedin.com/in/guilherme-monte-mor/) · [Email](mailto:guimontemor777@gmail.com)
